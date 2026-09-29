@@ -1,0 +1,10 @@
+1;Arroz;2993
+2;Leche;7431
+3;Cafe;10995
+4;Pan;8557
+5;Azucar;9897
+6;Sal;5537
+7;Aceite;5754
+8;Harina;5916
+9;Galletas;7304
+10;Chocolate;2228
