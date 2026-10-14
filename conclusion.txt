@@ -1,0 +1,45 @@
+1. LO APRENDIDO DURANTE EL DESARROLLO DEL PROYECTO: 
+
+Durante el desarrollo del proyecto se consolidaron conceptos fundamentales 
+
+sobre la manipulación e intermediación de datos mediante archivos planos (I/O) 
+
+en Java. Se aprendió a estructurar clases con responsabilidades únicas: 
+
+una orientada a la generación aleatoria de insumos de prueba (GenerateInfoFiles) 
+
+y otra dedicada al procesamiento y consolidación autónoma de información (main). 
+
+Asimismo, se profundizó en la captura y gestión robusta de excepciones para  
+
+garantizar que la ejecución no dependa de entradas manuales por teclado. 
+
+ 
+
+2. POSIBLES APLICACIONES EN SU VIDA PROFESIONAL: 
+
+Las destrezas desarrolladas para la lectura y escritura automatizada de archivos  
+
+son clave en entornos profesionales como la automatización de procesos batch  
+
+(tareas masivas en segundo plano), la migración de información entre bases de  
+
+datos mediante archivos CSV/planos y la generación automatizada de conjuntos de 
+
+datos para pruebas de software (mock files). 
+
+ 
+
+3. LAS DIFICULTADES PRESENTADAS DURANTE EL DESARROLLO DEL PROYECTO: 
+
+La principal dificultad radicó en el diseño de una arquitectura completamente  
+
+autónoma que no solicitara datos al usuario por consola y garantizara que la 
+
+clase 'main' pudiera leer correctamente las rutas locales relativas creadas por 
+
+'GenerateInfoFiles'. También representó un reto el control de errores de formato 
+
+al realizar la separación de texto (split) y la conversión de cadenas a tipos  
+
+numéricos (parsing). 
